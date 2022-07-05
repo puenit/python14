@@ -1,0 +1,12 @@
+print("hello 6/14")
+print("Name Jessada")
+print("Surname Subviboonphong")
+print("Nickname Diw")
+print("Age 17")
+print("Weight 52")
+print("Height 173")
+print("Number 0892541658")
+print("Hobby drawing paintings")
+print("Favorites colours pink")
+print("ig diw.jesda_")
+#เจษฎา ทรัพย์วิบูลพงษ์ ม.6/14 เลขที่ 7
